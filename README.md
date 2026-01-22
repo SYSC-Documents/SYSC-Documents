@@ -37,4 +37,9 @@ Is a picture describing what payment types are used in the universal category fo
 
 
 An explanatory README.md file can be included in the form level directory if further explanation is needed as to functionality
+As part of the commit, please put the call reference the files have been uploaded as a result of, for example:
+
+SR-456781 Pictures amended due to statutory change 
+
+
 
