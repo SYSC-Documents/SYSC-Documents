@@ -1,1 +1,0 @@
-This is a storage area for picture (jpg) files for use in SystemC forms
