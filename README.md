@@ -20,11 +20,13 @@ under the form name folder should come the split by type using the format:
 * Docs
 * Video
 * Misc
-  etc
+etc
 
 
 
-Files should follow a similar format with a brief description in the name as to what it relates to calling files 1.jpg etc should be avoided, as an example:
+Files should follow a similar format with a brief description in the name as to what it relates to, calling files 1.jpg etc should be avoided. 
+
+DO NOT USE SPACE IN YOU FILENAMES as it causes problem when copying the URL for use. This is a sensible filename as an example
 
 
 
@@ -40,6 +42,4 @@ An explanatory README.md file can be included in the form level directory if fur
 As part of the commit, please put the call reference the files have been uploaded as a result of, for example:
 
 **SR-456781 Pictures amended due to statutory change**
-
-
 
